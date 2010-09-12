@@ -170,7 +170,7 @@ addGlobalStyle(
 				'  color: white; }');
 
 var indent = "&nbsp;&nbsp;"
-desc = "<h4>Monster Death Estimater</h4><br/><span id='ca-monster-data'>Visit Monster</span>";
+desc = "<h4>Monster Death Estimator</h4><br/><span id='ca-monster-data'>Visit Monster to view Data</span>";
 div = document.createElement('div');
 div.id = 'ca-etd-cpanel';
 div.innerHTML = desc;
